@@ -10,10 +10,22 @@ module.exports = {
     nav: [],
     sidebar: [
       {
-        title: 'demo',
+        title: '理解cookie',
         collapsable: false,
         children: [
           'chapter1/',
+          'chapter1/bg',
+          'chapter1/cookie',
+          'chapter1/principle',
+        ],
+      },
+      {
+        title: '理解session',
+        collapsable: false,
+        children: [
+          'session/',
+          'session/what',
+          'session/principle',
         ],
       }
     ],
