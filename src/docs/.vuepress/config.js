@@ -17,6 +17,7 @@ module.exports = {
           'chapter1/bg',
           'chapter1/cookie',
           'chapter1/principle',
+          'chapter1/properties',
         ],
       },
       {
